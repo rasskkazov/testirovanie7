@@ -1,0 +1,3 @@
+const axiosReqresInstance = require("./axiosInstance");
+
+
